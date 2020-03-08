@@ -1,0 +1,21 @@
+#Bagtags{
+    padding-bottom: 20px;
+    text-align: center;
+}
+.image{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    box-shadow: black;
+}
+.description{
+    
+    text-align: center;
+    font-size: 25px;
+
+}
+#button{
+    background-color: skyblue;
+    text-decoration: none;
+
+}
